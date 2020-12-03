@@ -1,8 +1,8 @@
 # Setup
-title:               Therapy Aroha Ltd
+title:               Group Narratives Ltd
 tagline:             'counselling and wellbeing'
-description:         'Wellington and Online Counselling Services With Compassion-Focused Therapy, Narrative Therapy, Positive Psychology and Mindfulness-Based Cognitive Therapy'
-url:                 https://therapyaroha.co.nz
+description:         'Group Dynamics in Wellington'
+url:                 https://narratives.co.nz
 baseurl:             /
 paginate:            5
 permalink:           pretty
@@ -13,7 +13,7 @@ permalink: /:title/
 # About/contact
 author:
   name:              Lee Jordan
-  url:               https://twitter.com/geraldleejordan
+  url:               https://twitter.com/groupnarratives
   email:             geraldleejordan@gmail.com
 
 # Gems
