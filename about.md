@@ -9,7 +9,7 @@ title: About
 
 <p>Few things bring me more joy or satisfaction than helping others and I am currently expanding my assistance into newer endeavours online.</p>
 
-<img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
+<img class="img-border" src="https://narratives.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
 <h2>Contact</h2>
 
@@ -25,6 +25,6 @@ I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current dat
 
 <p>Aroha nui,</p>
 
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://narratives.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns ❤️

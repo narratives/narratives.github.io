@@ -2,7 +2,7 @@
  *  Overwrites for theme
  */
 
-html {
+ html {
   font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -82,7 +82,7 @@ p a {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 20px solid #b30000;
+  border-left: 20px solid #396080;
   color: #333333;
 }
 
@@ -90,7 +90,7 @@ p a {
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #396080;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
@@ -99,12 +99,14 @@ p a {
 /*  color: #3c4c54; */
 }
 
-.posts a {
-  text-decoration: underline;
-}
-
 .post a {
   text-decoration: underline;
+  color: #396080;
+}
+
+.post-title a {
+  text-decoration: underline;
+  color: #396080;
 }
 
 .page a {
@@ -116,15 +118,15 @@ ul li a {
 }
 
 .sidebar-item {
-  color: #f5c0c0;
+  color: #d7d7d7;
 }
 
 .highlight-text {
-  background-color: #f5f3c1;
+  background-color: #f5f5bc;
 }
 
 .masthead-title small {
-  color: #ac4142;
+  color: #396080;
 }
 
 .coinmarketcap-currency-widget {
@@ -139,7 +141,7 @@ ul li a {
   margin-top: 40px;
   margin-bottom: 40px;
   padding: 3px;
-  background-color: #ac4142;
+  background-color: #396080;
   width: 100%;
   height: 1px;
 }
