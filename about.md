@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<h2>Gerald Lee Jordan</h2>
+<h2>Title</h2>
 
-<p>I began counselling in the 1980s and after many years of life experience (study, travel, parenting and work), I returned to this love by beginning a <i>Master of Counselling</i> and volunteer telephone counsellor training in 2009.</p>
-
-<p>Few things bring me more joy or satisfaction than helping others and I am currently expanding my assistance into newer endeavours online.</p>
-
-<img class="img-border" src="https://narratives.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
+<p></p>
 
 <h2>Contact</h2>
 
-<p>My email is <a href="mailto:therapyaroha@gmail.com">therapyaroha@gmail.com</a>. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
+<p>Our email is <a href="mailto:contact@narratives.co.nz">contact@narratives.co.nz</a>. Please be advised that response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
 
 <h2>Date and Time</h2>
 
-I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current date and time are available <a href="https://www.timeanddate.com/worldclock/new-zealand/wellington" alt="Wellington Date and Time" rel="nofollow" target="_blank">here</a>.
+We are in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and our current date and time are available <a href="https://www.timeanddate.com/worldclock/new-zealand/wellington" alt="Wellington Date and Time" rel="nofollow" target="_blank">here</a>.
 
 <h2>Keybase</h2>
 
-<p>If you are a client and would prefer a more immediate response than by email, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
-
-<p>Aroha nui,</p>
-
-<img src="https://narratives.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
-
-Lee Jordan, MBA, MEd, MCouns ❤️
+<p>If you are a client and would prefer a more immediate response than by email, you can reach us on Keybase <a href="https://keybase.io/narratives/chat" rel="nofollow" target="_blank">here</a>.</p>
